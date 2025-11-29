@@ -32,8 +32,14 @@ it has the fllowing features -
               //with express,json() middleware
 
 (6) Now make a file inside backend ~ types.js in which there will zod inputs we will expect 
-    from our end user. to initialize ~ { npm install zod }
+    from our end user. to initialize ~ { npm install zod }. make sure u r in backend directory
 
-(7) 
+(7) Now we will be making db.js, here we will be making our schemas for our project, 
+    just do { npm install mongoose } in the terminal. make sure u r in backend directory
+    make a project~cluster and copy the connection string and connect it with mongoDB app
 
+(8) Now we have make the db.js too and defined all the schemas, we will complete out index.js work 
+    and boom backend complete
+
+(9) Now frontend
 
