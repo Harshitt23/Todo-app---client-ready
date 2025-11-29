@@ -11,7 +11,7 @@ it has the fllowing features -
 -anyone can make a todo as done.
 
 ##Start
-   ##First things first we are creating this application without vite , so we will not be 
+   First things first we are creating this application without vite , so we will not be 
    installing - { npm create vite@latest } ,, so we will not be getting any css file any, structure to start, any react code.
    we will create every file and folder, structure, css - ourself.
 
