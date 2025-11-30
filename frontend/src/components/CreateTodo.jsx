@@ -26,7 +26,7 @@ export function CreateTodo() {
             margin: 10
         }} onClick={async () => {
 
-            const res = await fetch("http://localhost:3000/todos", {
+            const res = await fetch("http://localhost:3000/todo", {
                 method: "POST",
                 body: JSON.stringify({
                     title: title,
